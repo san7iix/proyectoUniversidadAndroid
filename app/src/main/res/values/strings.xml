@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Universidad</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="programa">Programa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="listado">LISTADO</string>
+    <string name="nombre_editar_txtv">Nombre</string>
+    <string name="editar_programa_tv">Programa</string>
+    <string name="btn_editar">Editar</string>
+</resources>
